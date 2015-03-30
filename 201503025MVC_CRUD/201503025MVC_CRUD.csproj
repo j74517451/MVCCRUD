@@ -206,15 +206,15 @@
     <Content Include="App_Data\Inventory_log.ldf">
       <DependentUpon>Inventory.mdf</DependentUpon>
     </Content>
-    <Content Include="Content\bootstrap-theme.css" />
-    <Content Include="Content\bootstrap-theme.min.css" />
-    <Content Include="Content\bootstrap.css" />
-    <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\carousel.css" />
+    <Content Include="App_Data\Content\bootstrap-theme.css" />
+    <Content Include="App_Data\Content\bootstrap-theme.min.css" />
+    <Content Include="App_Data\Content\bootstrap.css" />
+    <Content Include="App_Data\Content\bootstrap.min.css" />
+    <Content Include="App_Data\Content\carousel.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Content\Site.css" />
+    <Content Include="App_Data\Content\Site.css" />
     <Content Include="Images\advert_141110145056.jpg" />
     <Content Include="Images\ajax-loader.gif" />
     <Content Include="Scripts\angular.js" />
@@ -247,8 +247,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="Content\bootstrap-theme.css.map" />
-    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="App_Data\Content\bootstrap-theme.css.map" />
+    <Content Include="App_Data\Content\bootstrap.css.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-dj.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-er.js" />
